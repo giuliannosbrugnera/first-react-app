@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c44da3b-4c3e-448d-8e4a-f8dee75cdcff/deploy-status)](https://app.netlify.com/sites/elegant-keller-a7aa20/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
